@@ -1,2 +1,2 @@
-# jaygroover.github.io
-my first web page
+# web.github.io
+my first website
